@@ -1,7 +1,7 @@
 package com.example.homework7;
 
 /**
- * Created by Nikita on 11/19/2016.
+ * Created by Priya on 11/19/2016.
  */
 public class Message {
 
