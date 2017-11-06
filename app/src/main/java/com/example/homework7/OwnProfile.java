@@ -4,9 +4,7 @@ import android.net.Uri;
 
 import java.io.Serializable;
 
-/**
- * Created by Nikita on 11/18/2016.
- */
+
 public class OwnProfile implements Serializable {
 
     String uid,gender,displayName;
