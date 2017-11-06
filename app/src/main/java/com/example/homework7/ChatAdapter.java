@@ -25,7 +25,7 @@ import java.util.ArrayList;
 import java.util.Date;
 
 /**
- * Created by Nikita on 11/19/2016.
+ * Created by Priya on 11/19/2016.
  */
 public class ChatAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
     static Context context;
